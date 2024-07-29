@@ -1,4 +1,4 @@
-# incubyte_assessment
+# String Calculator
 
 ## Things To Keep In Mind
 - Host your solution on a public GitHub/GitLab repository.
